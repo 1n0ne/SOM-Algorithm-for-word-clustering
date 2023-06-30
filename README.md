@@ -1,6 +1,6 @@
 <h1>Self Organizing Map For Word Clustering</h1>
 
-an implementation of the self-organizing map (SOMs) algorithm with competitive learning using Python will be examined. The SOMs algorithm aims to cluster words belonging to four categories: animals, countries, fruits, and veggies. The algorithm is trained on the word embeddings taken from the pre-trained Global Vectors (GloVe).
+Implementation of the self-organizing map (SOMs) algorithm with competitive learning using Python. The SOMs algorithm aims to cluster words belonging to four categories: animals, countries, fruits, and veggies. The algorithm is trained on the word embeddings taken from the pre-trained Global Vectors (GloVe).
 
 <h1> How to use </h1>
 You can dawnload the code via the comand :
